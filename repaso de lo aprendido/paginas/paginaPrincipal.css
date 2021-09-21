@@ -1,0 +1,22 @@
+.cuadro{
+    width: 1012px;
+    height: 474px;
+    margin-top: 2em;
+    margin-left: 51px;
+    bottom: 352px;
+    background: rgba(196, 196, 196, 0.33);
+    border-radius: 17px;
+}
+.navegacion{
+    background-color: #78c2ad;
+    height: 7em;
+    margin: -8px;
+}
+.texto{
+    margin-left: 492px;
+    margin-right: 33px;
+    padding-top: 169px;
+    font-size: 23px;
+}
+
+

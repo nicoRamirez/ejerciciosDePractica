@@ -1,0 +1,40 @@
+#login{
+    background-color: #78c2ad9e;
+    height: 26em;
+    width: 20em;
+    margin-top: 5em;
+    margin-left: 32em;
+    border-radius: 4px;
+}
+.navegacion{
+    background-color: #78c2ad;
+    height: 7em;
+    margin: -8px;
+}
+#imagen{
+    height: 112px;
+    border-radius: 91px;
+    margin-left: 107px;
+    margin-top: 26px;
+}
+#usuario{
+    margin-left: 23px;
+    height: 29px;
+    width: 20em;
+    margin-top: 18px;
+    border-radius: 22px;
+}
+#boton{
+    margin-left: 128px;
+    margin-top: 4em;
+    height: 49px;
+    border-radius: 18px;
+    background-color: #0275D8;
+}
+#contraseña{
+    margin-left: 23px;
+    height: 29px;
+    width: 20em;
+    margin-top: 18px;
+    border-radius: 22px;
+}
